@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+
+<manifest xmlns="xilia://manifest">
+
+  <xilia/>
+
+  <level>
+
+    <name>Minimal XLA level</name>
+    <descriptions>
+      <description>level description</description>
+    </descriptions>
+    <information/>
+
+    <rank-thresholds>
+      <rank-thresholds-1p/>
+      <rank-thresholds-2p/>
+    </rank-thresholds>
+
+  </level>
+
+</manifest>
